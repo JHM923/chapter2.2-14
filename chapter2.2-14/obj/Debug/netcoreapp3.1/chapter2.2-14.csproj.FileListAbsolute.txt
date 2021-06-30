@@ -1,0 +1,4 @@
+C:\coding\chapter2.2-14\chapter2.2-14\obj\Debug\netcoreapp3.1\chapter2.2-14.csprojAssemblyReference.cache
+C:\coding\chapter2.2-14\chapter2.2-14\obj\Debug\netcoreapp3.1\chapter2.2-14.AssemblyInfoInputs.cache
+C:\coding\chapter2.2-14\chapter2.2-14\obj\Debug\netcoreapp3.1\chapter2.2-14.AssemblyInfo.cs
+C:\coding\chapter2.2-14\chapter2.2-14\obj\Debug\netcoreapp3.1\chapter2.2-14.csproj.CoreCompileInputs.cache
