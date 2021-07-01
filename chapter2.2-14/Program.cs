@@ -5,7 +5,7 @@ namespace chapter2._2_14
 {
     class Program
     {
-        static IEnumberable<string> Iterator()
+        static IEnumerable<string> Iterator()
         {
             try{
                 Console.WriteLine("Before first yield");
